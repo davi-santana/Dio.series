@@ -1,0 +1,16 @@
+/home/davi/Dio.Series/bin/Debug/net5.0/Dio.Series
+/home/davi/Dio.Series/bin/Debug/net5.0/Dio.Series.deps.json
+/home/davi/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.json
+/home/davi/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.dev.json
+/home/davi/Dio.Series/bin/Debug/net5.0/Dio.Series.dll
+/home/davi/Dio.Series/bin/Debug/net5.0/ref/Dio.Series.dll
+/home/davi/Dio.Series/bin/Debug/net5.0/Dio.Series.pdb
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.csprojAssemblyReference.cache
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfoInputs.cache
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfo.cs
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.dll
+/home/davi/Dio.Series/obj/Debug/net5.0/ref/Dio.Series.dll
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.pdb
+/home/davi/Dio.Series/obj/Debug/net5.0/Dio.Series.genruntimeconfig.cache
